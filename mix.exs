@@ -32,7 +32,7 @@ defmodule Buffer.MixProject do
 
   defp description do
     """
-    FIFO and LIFO buffers
+    FIFO buffers for queueing
     """
   end
 
